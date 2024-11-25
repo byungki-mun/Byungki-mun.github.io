@@ -55,7 +55,7 @@ III. FDI Trends in East Asia by State, Sector,and Investment Type
 IV. Economic Effects of FDI in East Asia
 V. Conclusion and Implications
 </small><br><br/></div>
-[act10-draft]:{{ site.baseurl }}{% link assets/files/IIT Working Paper 15-01.pdf %}
+[act10-draft]:{{ site.baseurl }}{% link files/IIT Working Paper 15-01.pdf %}
 
 
 **Intra-Regional Trade in East Asia**
@@ -70,4 +70,4 @@ IV. Intra-Regional Trade Intensity Index (IRTII) Analysis
 V. Regional Trade Introversion Index (RTII) Analysis
 VI. Conclusions
 </small><br><br/></div>
-[act10-draft]:{{ site.baseurl }}{% link assets/files/IIT Working Paper 14-02.pdf %}
+[act10-draft]:{{ site.baseurl }}{% link files/IIT Working Paper 14-02.pdf %}
