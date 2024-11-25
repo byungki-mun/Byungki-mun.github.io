@@ -8,8 +8,6 @@ excerpt: >
 slidesurl: "http://academicpages.github.io/files/slides1.pdf"
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
 citation: >
-  Your Name, You. (2009). "The Effects of the US-China Tariff War on U.S. Firms' Skill Demand." 
-  *Journal 1*. 1(1).
 ---
 
 **Work in Progress**
