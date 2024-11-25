@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: >
   Work in Progress
-slidesurl: "http://academicpages.github.io/files/slides1.pdf"
+slidesurl: 
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
 citation: >
 ---
