@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 excerpt: >
   Work in Progress
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
 ---
 
 **Work in Progress**
