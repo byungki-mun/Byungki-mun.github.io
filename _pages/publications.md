@@ -36,3 +36,35 @@ Using online job vacancy data, I study how the dramatic local employment shock d
 <div id="testingmechs" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 This paper revisits previous findings and examines whether the trade exposure to increased import competition has a significant impact on the local labor markets. The previous literature showed that higher imports from China cause higher unemployment, reduced wages, the relative reduction in population growth in the U.S. local labor markets, where the import competitive manufacturing industry resides. I repeat the specification of Autor et al. (2013) and Greenland et al. (2019), but I extend the period from 1990-2007 to 1990-2010 and incorporate alternative measures of trade exposure for U.S. commuting zones. The coefficient on manufacturing employment in the working-age population of the Chinese comparative advantage model is -0.305, which is less than half (43%) of the gross Chinese imports model. Although trade exposure reduces manufacturing employment, in models using net Chinese exports per worker or exposure to final goods and intermediate inputs, trade exposure was found to have a statistically significant positive effect on average manufacturing wages. When controlling preexisting population trends, the coefficient on trade exposures for CZ population adjustments using domestic plus international exposure to Chinese exports and the coefficient of the model using change in comparative advantage China-US are reduced to 57% and 28% of that in the model using Chinese imports per worker, respectively. In both IPUMS data and Census data, I find significant reductions in population growth of working-age individuals and of the young.
+
+# <center> Work in Progress </center>
+
+**The effects of the US-China tariff war on U.S. Firms Skill Demand.**
+
+
+# <center> KITA IIT Working Papers </center>
+**Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?**
+An Analysis of the Changing Trade Structure in East Asia Due to Increasing FDI and Economic Effects Thereof
+<br/>
+<small>[ <a href="#/" onclick="visib('act10')">Contents</a> | [Draft][act10-draft] ] </small>
+<div id="act10" style="display: none; text-align: justify; line-height: 1.2" ><small>
+I. Importance of East Asia in FDI
+II. Causes of Increase in FDI in East Asia
+III. FDI Trends in East Asia by State, Sector,and Investment Type
+IV. Economic Effects of FDI in East Asia
+V. Conclusion and Implications
+</small><br><br/></div>
+[act10-draft]:{{ site.baseurl }}{% link assets/files/IIT Working Paper 15-01.pdf %}
+**Intra-Regional Trade in East Asia**
+Need to Overcome Excessive Concentration on Intermediate Goods and External Dependency
+<br/>
+<small>[ <a href="#/" onclick="visib('act10')">Contents</a> | [Draft][act10-draft] ] </small>
+<div id="act10" style="display: none; text-align: justify; line-height: 1.2" ><small>
+I. Currents in the Process of Economic Integration of East Asia
+II. Research Method
+III. Intra-Regional Trade Share (IRTS) Analysis
+IV. Intra-Regional Trade Intensity Index (IRTII) Analysis
+V. Regional Trade Introversion Index (RTII) Analysis
+VI. Conclusions
+</small><br><br/></div>
+[act10-draft]:{{ site.baseurl }}{% link assets/files/IIT Working Paper 14-02.pdf %}
