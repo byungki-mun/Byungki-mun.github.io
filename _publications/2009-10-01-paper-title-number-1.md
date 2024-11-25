@@ -2,7 +2,6 @@
 title: "The Effects of the US-China Tariff War on U.S. Firms' Skill Demand."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: >
   Work in Progress
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
