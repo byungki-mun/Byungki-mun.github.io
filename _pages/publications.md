@@ -55,6 +55,7 @@ IV. Economic Effects of FDI in East Asia
 V. Conclusion and Implications
 </small><br><br/></div>
 [act10-draft]:{{ site.baseurl }}{% link assets/files/IIT Working Paper 15-01.pdf %}
+
 **Intra-Regional Trade in East Asia**
 Need to Overcome Excessive Concentration on Intermediate Goods and External Dependency
 <br/>
