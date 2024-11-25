@@ -5,7 +5,6 @@ category: manuscripts
 excerpt: >
   This paper examines how COVID-19 immigration restrictions impacted U.S. labor markets, analyzing
   changes in immigrant demographics, native employment, and employers' skill demands.
-venue: "GitHub Journal of Bugs"
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
 ---
 
