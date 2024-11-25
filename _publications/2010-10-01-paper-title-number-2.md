@@ -7,13 +7,7 @@ excerpt: >
   This paper revisits previous findings and examines the impact of trade exposure to increased import 
   competition on local labor markets, extending the analysis period and incorporating alternative 
   trade exposure measures.
-date: 2010-10-01
-venue: "Journal 1"
-slidesurl: "http://academicpages.github.io/files/slides2.pdf"
 paperurl: "http://academicpages.github.io/files/paper2.pdf"
-citation: >
-  Your Name, You. (2010). "U.S. Exports, Imports, and Internal Migration: A Balanced View of China 
-  Syndrome." *Journal 1*. 1(2).
 ---
 
 Abstract: This paper revisits previous findings and examines whether trade exposure to increased import competition has a significant impact on local labor markets. Previous literature has shown that higher imports from China lead to higher unemployment, reduced wages, and slower population growth in U.S. local labor markets with import-competitive manufacturing industries. 
