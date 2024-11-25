@@ -42,6 +42,7 @@ This paper revisits previous findings and examines whether the trade exposure to
 **The effects of the US-China tariff war on U.S. Firms Skill Demand.**
 
 
+
 # <center> KITA IIT Working Papers </center>
 **Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?**
 An Analysis of the Changing Trade Structure in East Asia Due to Increasing FDI and Economic Effects Thereof
@@ -55,6 +56,7 @@ IV. Economic Effects of FDI in East Asia
 V. Conclusion and Implications
 </small><br><br/></div>
 [act10-draft]:{{ site.baseurl }}{% link assets/files/IIT Working Paper 15-01.pdf %}
+
 
 **Intra-Regional Trade in East Asia**
 Need to Overcome Excessive Concentration on Intermediate Goods and External Dependency
