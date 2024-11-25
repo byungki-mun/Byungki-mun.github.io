@@ -1,7 +1,7 @@
 ---
 title: "Impact of COVID-19 Immigration Restrictions on the US Labor Market and Skill Demand."
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: >
   Abstract: Immigrants constitute an increasingly significant portion of the U.S. population and workforce. 
