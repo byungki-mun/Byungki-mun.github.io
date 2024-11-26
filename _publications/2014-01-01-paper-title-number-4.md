@@ -9,6 +9,7 @@ III. FDI Trends in East Asia by State, Sector,and Investment Type
 IV. Economic Effects of FDI in East Asia
 V. Conclusion and Implications
 paperurl: "http://academicpages.github.io/files/IIT_Working_Paper_15-01.pdf"
+date: 2015-01-01
 ---
 
 Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?
