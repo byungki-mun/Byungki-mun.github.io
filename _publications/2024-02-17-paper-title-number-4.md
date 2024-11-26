@@ -6,6 +6,7 @@ excerpt: >
   This paper examines how COVID-19 immigration restrictions impacted U.S. labor markets, analyzing
   changes in immigrant demographics, native employment, and employers' skill demands.
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
+date: 2024-11-01
 ---
 
 Abstract: Immigrants constitute an increasingly significant portion of the U.S. population and workforce. By March 2019, approximately 39 million foreign-born working-age individuals were in the U.S., making up 18.4 percent of the working-age population. The COVID-19 pandemic and subsequent border closures and immigration ban reversed this trend, reducing the number of working-age foreign-born individuals by over 2 million in 2020 compared to pre-pandemic projections. 
