@@ -7,6 +7,7 @@ excerpt: >
   This paper revisits previous findings and examines the impact of trade exposure to increased import 
   competition on local labor markets, extending the analysis period and incorporating alternative 
   trade exposure measures.
+date: 2023-05-01
 paperurl: "http://academicpages.github.io/files/paper2.pdf"
 ---
 
