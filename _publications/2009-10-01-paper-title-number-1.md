@@ -3,8 +3,8 @@ title: "The Effects of the US-China Tariff War on U.S. Firms' Skill Demand"
 collection: publications
 category: manuscripts
 excerpt: >
-  **Work in Progress**
-date: 2021-05-01
+  *Work in Progress*
+date: 2021-00-00
 ---
 
 **Work in Progress**
