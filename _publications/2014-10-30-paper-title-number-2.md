@@ -1,5 +1,5 @@
 ---
-title: "Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?"
+title: "Intra-Regional Trade in East Asia : Need to Overcome Excessive Concentration on Intermedia"
 collection: publications
 category: manuscripts
 excerpt: |
