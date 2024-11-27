@@ -3,7 +3,7 @@ title: "Intra-Regional Trade in East Asia : Need to Overcome Excessive Concentra
 collection: publications
 category: manuscripts
 excerpt: |
-  *KITA IIT Working Paper* 
+  *KITA IIT Working Paper*  
   I. Currents in the Process of Economic Integration of East Asia  
   II. Research Method  
   III. Intra-Regional Trade Share (IRTS) Analysis  
