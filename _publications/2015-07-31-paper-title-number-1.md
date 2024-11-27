@@ -1,6 +1,4 @@
 ---
-KITA IIT Working Paper 
-======
 title: "Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?"
 collection: publications
 category: manuscripts
