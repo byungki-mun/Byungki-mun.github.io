@@ -1,10 +1,10 @@
+KITA IIT Working Paper 
+======
 ---
 title: "Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?"
 collection: publications
 category: manuscripts
 excerpt: |
-  KITA IIT Working Paper 
-  ======
   I. Importance of East Asia in FDI  
   II. Causes of Increase in FDI in East Asia  
   III. FDI Trends in East Asia by State, Sector, and Investment Type  
