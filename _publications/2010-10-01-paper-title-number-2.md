@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: >
   This paper revisits previous findings and examines the impact of trade exposure to increased import 
-  competition on local labor markets, extending the analysis period and incorporating alternative 
+  competition on U.S. local labor markets, extending the analysis period and incorporating alternative 
   trade exposure measures.
 date: 2021-05-01
 paperurl: "http://academicpages.github.io/files/paper2.pdf"
