@@ -3,6 +3,7 @@ title: "Will Foreign Direct Investment Accelerate the Economic Integration of Ea
 collection: publications
 category: manuscripts
 excerpt: |
+  **KITA IIT Working Paper**  
   I. Currents in the Process of Economic Integration of East Asia  
   II. Research Method  
   III. Intra-Regional Trade Share (IRTS) Analysis  
