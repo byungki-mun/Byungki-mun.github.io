@@ -1,11 +1,9 @@
 ---
+excerpt: >
+**KITA IIT Working Paper** 
 title: "The Effects of the US-China Tariff War on U.S. Firms' Skill Demand."
 collection: publications
 category: manuscripts
-excerpt: >
-  Work in Progress
-  KITA IIT Working Paper  
-  ======  
 date: 2021-05-01
 ---
 
