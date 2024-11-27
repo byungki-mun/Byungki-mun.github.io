@@ -3,8 +3,7 @@ title: "The Effects of the US-China Tariff War on U.S. Firms' Skill Demand"
 collection: publications
 category: manuscripts
 excerpt: >
-  **KITA IIT Working Paper**  
-  This paper examines how the US-China tariff war has reshaped the skill demands of U.S. firms, focusing on hiring patterns, workforce composition, and the adoption of specific skillsets across various industries.
+  **Work in Progress**
 date: 2021-05-01
 ---
 
