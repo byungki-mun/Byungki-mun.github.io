@@ -6,7 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: >
   Using online job vacancy data, I study how the dramatic local employment shock due to the pandemic 
   changed labor demand and how the COVID-19 pandemic differs from the impact of the Great Recession 
-  on the labor market. This abstract highlights key findings.
+  on the labor market. I find that the downskilling of education and experience requirements during 
+  the pandemic sharply contrasts with persistent upskilling after the Great Recession. 
 paperurl: "http://academicpages.github.io/files/paper3.pdf"
 date: 2022-05-01
 ---
