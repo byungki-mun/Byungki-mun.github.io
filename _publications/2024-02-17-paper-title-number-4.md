@@ -7,7 +7,7 @@ excerpt: >
   the Current Population Survey (CPS) and Burning Glass’s (BG) online job postings. I find that the drop 
   in immigration increased native employment and reduced foreign-born employment, revealing a substitution 
   effect and driving disproportionate wage growth. However, immigration restrictions spurred firms to adopt 
-  new technologies and automation over time, altering skill demands across regions and industries.
+  new technologies and automation over time.
 paperurl: "http://academicpages.github.io/files/paper1](https://github.com/byungki-mun/byungki-mun.github.io/blob/master/files/IIT_Working_Paper_15-01.pdf"
 date: 2024-11-01
 ---
