@@ -9,7 +9,7 @@ excerpt: |
   IV. Economic Effects of FDI in East Asia  
   V. Conclusion and Implications
 paperurl: "http://academicpages.github.io/files/IIT_Working_Paper_15-01.pdf"
-date: 2015-01-01
+date: 2015-07-31
 ---
 
 Will Foreign Direct Investment Accelerate the Economic Integration of East Asia?
