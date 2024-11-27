@@ -3,11 +3,13 @@ title: "Will Foreign Direct Investment Accelerate the Economic Integration of Ea
 collection: publications
 category: manuscripts
 excerpt: |
-  I. Currents in the Process of Economic Integration of East Asia
-  II. Research Method
-  III. Intra-Regional Trade Share (IRTS) Analysis
-  IV. Intra-Regional Trade Intensity Index (IRTII) Analysis
-  V. Regional Trade Introversion Index (RTII) Analysis
+  KITA IIT Working Paper  
+  ======  
+  I. Currents in the Process of Economic Integration of East Asia  
+  II. Research Method  
+  III. Intra-Regional Trade Share (IRTS) Analysis  
+  IV. Intra-Regional Trade Intensity Index (IRTII) Analysis  
+  V. Regional Trade Introversion Index (RTII) Analysis  
   VI. Conclusions
 paperurl: "http://byungki-mun.github.io/files/IIT_Working_Paper_14-02.pdf"
 date: 2014-10-30
