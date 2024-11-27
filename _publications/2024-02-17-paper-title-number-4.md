@@ -3,8 +3,11 @@ title: "Impact of COVID-19 Immigration Restrictions on the US Labor Market and S
 collection: publications
 category: manuscripts
 excerpt: >
-  This paper examines how COVID-19 immigration restrictions impacted U.S. labor markets, analyzing
-  changes in immigrant demographics, native employment, and employers' skill demands.
+  This paper examines how COVID-19 immigration restrictions impacted U.S. labor markets, using data from 
+  the Current Population Survey (CPS) and Burning Glass’s (BG) online job postings. I find that the drop 
+  in immigration increased native employment and reduced foreign-born employment, revealing a substitution 
+  effect and driving disproportionate wage growth. However, immigration restrictions spurred firms to adopt 
+  new technologies and automation over time, altering skill demands across regions and industries.
 paperurl: "http://academicpages.github.io/files/paper1](https://github.com/byungki-mun/byungki-mun.github.io/blob/master/files/IIT_Working_Paper_15-01.pdf"
 date: 2024-11-01
 ---
