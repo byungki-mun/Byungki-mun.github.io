@@ -9,7 +9,7 @@ excerpt: |
   IV. Intra-Regional Trade Intensity Index (IRTII) Analysis
   V. Regional Trade Introversion Index (RTII) Analysis
   VI. Conclusions
-paperurl: "http://academicpages.github.io/files/IIT_Working_Paper_14-02.pdf"
+paperurl: "http://byungki-mun.github.io/files/IIT_Working_Paper_14-02.pdf"
 date: 2014-10-30
 ---
 
