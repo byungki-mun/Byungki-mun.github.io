@@ -14,10 +14,6 @@ paperurl: "http://byungki-mun.github.io/files/IIT_Working_Paper_14-02.pdf"
 date: 2014-10-30
 ---
 
-Intra-Regional Trade in East Asia:
-
-Need to Overcome Excessive Concentration on intermediate Goods and External Dependency
-
 Trade in East Asia has been growing and expanding consistently thanks to the spread of the market liberalization policy in the region. The acceleration of efforts to adopt various free trade agreements (FTAs) in the region has also increased the volume and the importance of intra-regional trade here. Despite the outward growth of trade in the region of East Asia, intra-regional trade in this region has begun to display a number of shortcomings. If the growth of the sheer volume and the share of intra-regional trade indicate the quantitative growth of trade in this region, the level of introversion may indicate the qualitative side of intra-regional trade.
 
 There are mainly two measures of trade introversion, namely, the Intra-regional Trade Intensity Index (IRTII), and the Regional Trade Introversion Index (RTII). The analysis of trade in East Asia according to both measures revealed that intra-regional trade among the 16 countries in the region is significantly less introverted than the counterparts in either the EU or the NAFTA. Whereas the introversion of trade in the EU and the NAFTA has increased since the latest global economic crisis, the East Asian case has moved in the opposite direction.
