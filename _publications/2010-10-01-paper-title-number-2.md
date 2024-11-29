@@ -8,7 +8,7 @@ excerpt: >
   competition on U.S. local labor markets, extending the analysis period and incorporating alternative 
   trade exposure measures.
 date: 2021-05-01
-paperurl: "http://academicpages.github.io/files/paper2.pdf"
+paperurl: "http://byungki-mun.github.io/files/A_Blanced_View_of_China_Syndrome.pdf"
 ---
 
 Abstract: This paper revisits previous findings and examines whether trade exposure to increased import competition has a significant impact on local labor markets. Previous literature has shown that higher imports from China lead to higher unemployment, reduced wages, and slower population growth in U.S. local labor markets with import-competitive manufacturing industries. 
