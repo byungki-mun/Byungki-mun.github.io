@@ -2,7 +2,6 @@
 title: "COVID-19 Pandemic and Changes in Employer Skill Requirements: Evidence from the US."
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: >
   Using online job vacancy data, I study how the dramatic local employment shock due to the pandemic 
   changed labor demand and how the COVID-19 pandemic differs from the impact of the Great Recession 
