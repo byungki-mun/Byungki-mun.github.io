@@ -9,6 +9,7 @@ excerpt: >
   effect and driving disproportionate wage growth. However, immigration restrictions spurred firms to adopt 
   new technologies and automation over time, altering skill demands across regions and industries.
 date: 2024-11-01
+slidesurl: 'http://byungki-mun.github.io/files/Immigration_ppt_1201.pdf'
 ---
 
 Abstract: Immigrants constitute an increasingly significant portion of the U.S. population and workforce. By March 2019, approximately 39 million foreign-born working-age individuals were in the U.S., making up 18.4 percent of the working-age population. The COVID-19 pandemic and subsequent border closures and immigration ban reversed this trend, reducing the number of working-age foreign-born individuals by over 2 million in 2020 compared to pre-pandemic projections. 
