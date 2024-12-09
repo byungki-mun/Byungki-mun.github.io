@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at Virginia Tech. I earned an MA and a BA in Economics from Sungkyunkwan University.
+I am a PhD candidate in Economics at Virginia Tech. I am also a Research Affiliate at the Global Labor Organization (GLO). I earned an MA and a BA in Economics from Sungkyunkwan University.
 
 My research covers Labor Economics and International Trade in political and economic situations. My research interests focus on the effects of technological innovation, immigration, and international trade on the labor market. I am currently working on projects examining how the COVID-19 pandemic and immigration restrictions affect the labor market and skill demand, as well as technology adoption.
 
